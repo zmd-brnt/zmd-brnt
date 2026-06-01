@@ -23,13 +23,6 @@ Estudiante de Ingeniería en Computación con un fuerte enfoque en el desarrollo
 *   🎙️ **Asistente Virtual PUA (Python):** Automatización de tareas locales e integración de la API de Spotify mediante comandos de voz.
 *   ⚡ **PokeApp (JavaScript):** Interfaz web interactiva enfocada en el consumo asíncrono y renderizado en tiempo real de APIs REST.
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zmd-brnt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmd-brnt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
 ## 🏆 Programación Competitiva
 
 <div align="center">
