@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! Soy Brent👋
 
-<!--
-**zmd-brnt/zmd-brnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Computación con un fuerte enfoque en el desarrollo de software backend, arquitectura de sistemas y la optimización de recursos. Disfruto construyendo soluciones eficientes y aplicando lógica algorítmica para resolver problemas complejos.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de **Ingeniería en Computación** en la UNAM.
+- 🏆 Amplia experiencia en **programación competitiva (C++)**, especializado en la optimización de memoria y algoritmos de baja latencia.
+- ⚙️ Interesado en el diseño de **sistemas transaccionales**, arquitecturas de alta disponibilidad y automatización de procesos.
+- 📚 Constantemente aprendiendo sobre patrones de diseño, máquinas de estados y consumo eficiente de APIs.
+
+## 🛠️ Stack Tecnológico
+
+**Lenguajes:** 
+`C++` | `Python` | `C#` | `SQL` | `JavaScript` | `HTML` | `CSS`
+
+**Herramientas & Tecnologías:** 
+`Git/GitHub` | `Consumo de APIs REST` | `Unity` | `VS Code`
+
+## 🚀 Proyectos Destacados
+
+*   🧩 **Simulador de Entorno 3D (C#, Unity):** Implementación de máquinas de estados y programación orientada a eventos para sincronización en tiempo real.
+*   🎙️ **Asistente Virtual PUA (Python):** Automatización de tareas locales e integración de la API de Spotify mediante comandos de voz.
+*   ⚡ **PokeApp (JavaScript):** Interfaz web interactiva enfocada en el consumo asíncrono y renderizado en tiempo real de APIs REST.
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zmd-brnt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmd-brnt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
+## 🏆 Programación Competitiva
+
+<div align="center">
+  <a href="https://codeforces.com/profile/ZeusMasterD3000">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeusMasterD3000&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
+  </a>
+</div>
+
+## 📫 Contáctame
+
+[![Correo](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:zmd.brnt@gmail.com)
